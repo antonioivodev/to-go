@@ -14,6 +14,7 @@ config/name="To Go"
 config/version="1.0"
 run/main_scene="res://_scenes/app_control_scene.tscn"
 config/features=PackedStringArray("4.3", "GL Compatibility")
+boot_splash/show_image=false
 config/icon="res://_graphics/icons/GodotCheckBoxIcon.svg"
 
 [rendering]
